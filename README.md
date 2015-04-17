@@ -1,0 +1,4 @@
+# RegistryIndexMapsKajiado
+registry 
+
+Registry
